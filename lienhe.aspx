@@ -24,7 +24,7 @@
                     <h1 style="color:#1747bb">Địa chỉ:</h1>
                 </br>
                 <p>
-                    999 Hàm Nghi<br />
+                    2999 Hàm Nghi<br />
                     Hanoi, HN 100000
                 </p>
                     </div>
